@@ -10,17 +10,17 @@
 
 ***General***
 
-*Entender el funcionamiento de inductores y capacitores armando circuitos en el simulador Dcaclab verificando su comportamiento , de modo que se empleen los conocimientos adquiridos en clase*
+*Determinar experimentalmente las características de señales senoidales*
 
 ***Especificos*** 
 
-*Verificar el comportamiento de la bobina y el capacitor en circuitos DC*
+*
 
-*Verificar el comportamiento de la bobina y el capacitor en circuitos AC*
+*
 
-*Verificar las combinaciones serie y paralelo de bobinas y capacitores*
+*
 
-*Familiarizarse con el uso de instrumentos de medida*
+*
 
 ### 2. MARCO TEÓRICO
 
