@@ -14,11 +14,11 @@
 
 ***Especificos*** 
 
-*
+*Conocer, estudiar e investigar las características de las Ondas Senoidales.*
 
-*
+*Investigar los tipos de fuentes de energía eléctrica de CA.*
 
-*
+*Investigar los tipos de plantas de generación eléctrica.*
 
 *
 
