@@ -82,8 +82,8 @@ Voltaje RMS
 * 0.1m segundos
 
 #### 8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
-Amplitud = 6.85V 
 
+* Amplitud = 6.85V 
 * Periodo= 0.4ms
 
 #### 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
@@ -93,8 +93,11 @@ Amplitud = 6.85V
 
 #### 8.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.85V
 #### 8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
+
 * ¿Coinciden?
+ 
  - R: No coinciden, tienen una diferencia cercana al 30% el mayor valor y al menor. 
+
 * ¿Por qué?
  - R: El valor medido en el osciloscopio representa el valor máximo proporcionado por la fuente de voltaje alterna, pero el valor medido por la fuente representa el voltaje rms o eficaz que utilizara cualquier dispositivo eléctrico que se conecte de forma directa a la fuente, este valor rms representa el valor del voltaje de la fuente como si fuera continua, para hallar la se debe tener en cuenta que el valor negativo del voltaje es igual de utilizable que el voltaje positivo, se puede representar esta función como: 
 
@@ -105,7 +108,7 @@ Amplitud = 6.85V
  
 - Entonces el valor del osciloscopio representa el valor máximo de voltaje que pasa por el cable en un instante determinado, mientras que el voltaje obtenido por el multímetro representa el voltaje funcional para un dispositivo eléctrico, para obtener estos voltajes se recurre al calculo integral, pero si se considera el periodo y la amplitud constantes en el tiempo este se mide como de la siguiente forma: 
 
-* V_(rms)=V_(max)/(2^(1/2))
+* Vrms=Vmax/(2^(1/2))
 
 - Que también se lo estima como el Voltaje máximo es mayor en un 30% al voltaje eficaz, lo que se demuestra al obtener al obtener la diferencia en porcentaje de los 2 valores de voltaje observados. 
 
