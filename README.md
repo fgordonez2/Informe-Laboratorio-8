@@ -84,7 +84,12 @@ Voltaje RMS
 #### 8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 * Amplitud = 6.85V 
-* Periodo= 0.4ms
+* Periodo= 0.4ms→ 0.0004 s
+
+![image](https://user-images.githubusercontent.com/104925648/219664589-ad9a9f37-78db-4cb8-850e-5ab9aaeb6f96.png)
+
+![image](https://user-images.githubusercontent.com/104925648/219665271-aab3715e-f001-4169-b560-d2d4f0596923.png)
+
 
 #### 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
