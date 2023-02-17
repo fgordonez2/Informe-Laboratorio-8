@@ -11,7 +11,7 @@
 ***General***
 
 *Determinar experimentalmente las características de señales senoidales, mediante un simulador, para verificar si se cumple con las 
-características de forma teórica**
+características de forma teórica*
 
 ***Especificos*** 
 
