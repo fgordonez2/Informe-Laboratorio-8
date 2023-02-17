@@ -67,7 +67,7 @@ Voltaje RMS
 
 #### ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-* 7 cuadros
+* 7 cuadros aproximadamente, cada cuadro vale 1 V, depende de coomo le configuremos
 
 #### ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
