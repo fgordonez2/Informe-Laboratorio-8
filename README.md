@@ -10,8 +10,8 @@
 
 ***General***
 
-*Determinar experimentalmente las características de señales senoidales, mediante un simulador, para verificar si se cumple con las 
-características de forma teórica*
+*Determinar experimentalmente las características de señales senoidales, mediante el simulador Proteus, para verificar si se cumple con las 
+características de forma teórica y analítica*
 
 ***Especificos*** 
 
