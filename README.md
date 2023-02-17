@@ -19,7 +19,8 @@ características de forma teórica**
 
 *Investigar los tipos de fuentes de energía eléctrica de CA.*
 
-*Investigar los tipos de plantas de generación eléctrica.*
+*Investigar la representación de la onda senoidal, tanto en su forma gráfica como
+en su forma matemática.*
 
 ### 2. MARCO TEÓRICO
 
