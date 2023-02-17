@@ -42,6 +42,9 @@
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/116774906/219541427-7c5b31a0-eb31-4bc6-9312-5c921d7bf052.png)
+
+![image](https://user-images.githubusercontent.com/116774906/219541464-b2ae4183-d996-49b2-aeac-6dc9daab0aa6.png)
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
