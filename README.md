@@ -52,16 +52,16 @@ en su forma matemática.*
 
 *Circuito simulado*
 
-![image](https://user-images.githubusercontent.com/116774906/219546928-0432294b-8286-47f1-a544-f41d845ca095.png)
-
-
 ![image](https://user-images.githubusercontent.com/116774906/219546500-8e72b7d1-0c5f-47b2-842e-2620919d6567.png)
 
+Voltaje pico.
+
+![image](https://user-images.githubusercontent.com/116774906/219546899-ee8bcc98-0ba0-4a7e-84f0-92e7eab58aaf.png)
+
+Voltaje RMS
 
 ![image](https://user-images.githubusercontent.com/116774906/219546432-68c090a7-539a-4a6c-86a8-cdf61c1fa152.png)
 
-
-![image](https://user-images.githubusercontent.com/116774906/219546899-ee8bcc98-0ba0-4a7e-84f0-92e7eab58aaf.png)
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
