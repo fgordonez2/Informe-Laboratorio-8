@@ -96,6 +96,8 @@ Voltaje RMS
 * Frecuencia Natural= 2500Hz 
 * Frecuencia Angular= 15707.963 (rad/s)
 
+![image](https://user-images.githubusercontent.com/104925648/219666777-837be024-d71a-412d-8914-19770f85ea84.png)
+
 #### 8.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.85V
 #### 8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 
