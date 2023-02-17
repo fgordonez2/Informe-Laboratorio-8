@@ -10,7 +10,8 @@
 
 ***General***
 
-*Determinar experimentalmente las características de señales senoidales*
+*Determinar experimentalmente las características de señales senoidales, mediante un simulador, para verificar si se cumple con las 
+características de forma teórica**
 
 ***Especificos*** 
 
@@ -19,8 +20,6 @@
 *Investigar los tipos de fuentes de energía eléctrica de CA.*
 
 *Investigar los tipos de plantas de generación eléctrica.*
-
-*
 
 ### 2. MARCO TEÓRICO
 
